@@ -1,3 +1,2 @@
 ﻿  OpensslUse.cpp
-f:\gitrepository\useopenssl\openssluse\openssluse\openssluse.cpp(30): error C2664: “HMODULE LoadLibraryW(LPCWSTR)”: 无法将参数 1 从“const char [22]”转换为“LPCWSTR”
-  f:\gitrepository\useopenssl\openssluse\openssluse\openssluse.cpp(30): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+  OpensslUse.vcxproj -> F:\GitRepository\UseOpenSSL\OpensslUse\Debug\OpensslUse.exe
